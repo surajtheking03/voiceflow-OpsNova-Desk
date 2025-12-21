@@ -1,0 +1,37 @@
+canvas id,canvas name,block id,block name,block content,block color
+"687e7ba4631b8aa0b915a8b7","Home","69483a615e3a2ce66ead898d","New Block 1","“Welcome to OpsNova Desk.
+
+I am Agent Jaanu!
+ I’ll help review and process your request.”","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483a755e3a2ce66ead8996","New Block 2","“I’ll ask a few questions and decide the next action. But first, please tell us your first name”","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483a7b5e3a2ce66ead899f","New Block 3","""Thanks for sharing your {first_name} !""
+
+""What type of issue are you facing?""","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483b925e3a2ce66ead89db","New Block 4","“How urgent is this issue?”","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483bf75e3a2ce66ead8a08","New Block 5","“Please briefly describe the issue.”","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483c755e3a2ce66ead8a19","New Block 6","Thanks {first_name} ! Agent Jaanu is reviewing!","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483cc75e3a2ce66ead8a22","New Block 7","“This may result in ticket creation or escalation.”
+
+“Evaluating the appropriate action. Please wait while Agent Jaanu assess this.”
+
+“Decision in progress.”","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69483fdd5e3a2ce66ead8a53","New Block 11","Thank You for your time {first_name}. 
+
+Agent Jaanu is pleased to confirm that Your Support Ticket has been Successfully Created.!
+
+Details: {agent_decision} 
+
+Our team will take it from here!","standard"
+"687e7ba4631b8aa0b915a8b7","Home","6948408e5e3a2ce66ead8a5c","New Block 12","Agent Jaanu wishes you a wonderful day!","standard"
+"687e7ba4631b8aa0b915a8b7","Home","694842b85e3a2ce66ead8a77","New Block 14","Thank You for your time {first_name} !
+Agent Jaanu has received the decision:
+
+{agent_decision}
+
+This issue has been escalated to our operations team for further review.","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69484aa35e3a2ce66ead8a98","New Block 15","Sorry {first_name}!
+
+Agent Jaanu tried to create a support ticket, but something didn't go through.
+
+Please try again later or contact the support team directly.","standard"
+"687e7ba4631b8aa0b915a8b7","Home","69484ad65e3a2ce66ead8aa1","New Block 16","Do you want to try again?","standard"
